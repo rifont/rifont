@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://rifont.com">me</a> .
+    <a href="https://rifont.com/blog">blog</a> .    
+    <a href="https://twitter.com/fontcodes">tweets</a> .
+  </samp>
+</p>
 
-<!--
-**rifont/rifont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Richard! 👋
 
-Here are some ideas to get you started:
+I'm a Software Engineer, currently working at [Novu](https://novu.co), where I'm building open-source infrastructure for product notifications. We make omnichannel product communication easy. Star us on [Github](https://github.com/novuhq/novu).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I previously worked at Whispir, where I built a communications workflow platform and developer tools.
+
+I'm a keen explorer of the outdoors, and love to travel. I'm in my element when I'm in the mountains, and I'm always looking for new places to conquer.
