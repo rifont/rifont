@@ -2,7 +2,7 @@
   <samp>
     <a href="https://rifont.com">me</a> .
     <a href="https://rifont.com/blog">blog</a> .    
-    <a href="https://twitter.com/fontcodes">tweets</a> .
+    <a href="https://twitter.com/fontcodes">tweets</a>
   </samp>
 </p>
 
