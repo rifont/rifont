@@ -8,7 +8,7 @@
 
 Hi, I'm Richard! 👋
 
-I'm a Software Engineer at [Novu](https://novu.co), where I'm building open-source infrastructure for product notifications. We make omnichannel product communication easy. Star us on [Github](https://github.com/novuhq/novu).
+I'm a Software Engineer at [Novu](https://novu.co), where I'm building open-source infrastructure for notifications. We make omnichannel communication easy. Check us out on [Github](https://github.com/novuhq/novu).
 
 I previously worked at Whispir, where I built a communications workflow platform and developer tools.
 
