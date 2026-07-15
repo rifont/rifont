@@ -9,7 +9,7 @@
 
 Hi, I'm Richard! 👋
 
-I'm building [Tau](https://github.com/taucad/tau), the AI-Native CAD Platform. Tau exists to modernize and join the 5 pillars of hardware design with AI-Native APIs:
+I'm building [Tau](https://github.com/taucad/tau), the AI-Native CAD Platform. Tau's mission is to modernize and join the 5 pillars of hardware design with AI-Native APIs:
 * Computer Aided Design (CAD) - Mechanical & Electrical CAD - 3D & 4D design as code
 * Software & Firmware - the brain of hardware automation, connecting the physical and digital world
 * Systems & Requirements - defining the interface between engineering disciplines and requirements
