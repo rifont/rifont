@@ -16,7 +16,7 @@ I'm building [Tau](https://github.com/taucad/tau), the AI-Native CAD Platform. T
 * Analysis - mathematical and algorithmic validation of a design
 * Simulation - application of physical constraints and world models to validate the design
 
-Tau is open-source and MIT-licensed, designed from the ground-up with modern web APIs to run completely in the browser. [Star us](https://github.com/taucad/tau)!
+Tau is open-source and Apache-2.0-licensed, designed from the ground-up with modern web APIs to run completely in the browser. [Star us](https://github.com/taucad/tau)!
 
 ---
 
